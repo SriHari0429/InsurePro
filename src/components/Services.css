@@ -1,0 +1,70 @@
+.fullpage{
+    margin: 0px 100px;
+}
+.discover h1{
+    padding-top:150px ;
+    text-align: center;
+    font-size: 40PX;
+}
+.discover h1 lable{
+    color: greenyellow;
+    text-decoration: underline;
+}
+.products h1{
+    padding-top: 0px;
+    font-weight: 600;
+    text-align: center;
+}
+.services{
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.services img{
+    height: 60px;
+    padding: 40px;
+    transition: 0.5s;
+    background-color: greenyellow;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px black;
+    animation: moveAnimation 10s linear infinite;
+}
+.services img:hover{
+    box-shadow: 0px 0px 0px 0px black;
+    transition: 0.5s;
+    animation: moveAnimation 0s linear infinite;
+}
+.services  h2{
+    color: black;
+    text-align: center;
+    margin-top: -50px;
+    margin-bottom: 80px;
+    text-decoration: none;
+}
+footer{
+    width: 100%;
+    padding-bottom: 1px;
+}
+
+@keyframes moveAnimation {
+    0% {
+      background-color:rgb(255, 0, 0) ;
+
+    }
+    20% {
+        background-color:rgb(0, 255, 30) ;
+    }
+    40% {
+        background-color:rgb(38, 0, 255) ;
+    }
+    60% {
+        background-color:rgb(255, 255, 255) ;
+    }
+    80% {
+        background-color:rgb(0, 255, 195) ;
+    }
+    100% {
+        background-color:rgb(209, 217, 153) ;
+    }
+  }

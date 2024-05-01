@@ -1,0 +1,47 @@
+.whyus{
+    text-align: center;
+    
+}
+h1{
+    font-weight: 800;
+}
+
+.heading h1{
+   
+   margin: 0px 100px;
+}
+.whyus p{
+    font-size: 20px;
+    font-weight: 500;
+    margin: 0px 100px;
+}
+.whyus img{
+    height: 100px;
+    margin-top: 20px;
+}
+.heading{
+    line-height: 40px;
+    padding-top: 100px;
+    
+}
+.ourcustomers{
+    text-align: center;
+}
+.ourcustomers audio:hover{
+    border: 2px solid ;
+    border-radius: 50px;
+}
+.ourcustomers .video-section{
+    width: 100%;
+}
+.video-section{
+    
+}
+.ourcustomers video:hover{
+    box-shadow:0px 0px 0px 0px ;
+    transition: 0.5s;
+}
+.ourcustomers h2{
+    text-decoration: underline;
+    font-weight: 800;
+}

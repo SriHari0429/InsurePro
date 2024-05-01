@@ -1,0 +1,89 @@
+.forms{
+    padding-top:1% ;
+    margin: 0px 100px ;
+}
+.container1{
+    box-shadow: 0px 0px 10px 0px grey;
+    margin-top: 10%;
+    margin-bottom: 100px;
+    margin-left: 25%;
+    width: 50%;
+}
+.header h1{
+text-align: center;
+margin-bottom: 30px;
+font-size: 40px;
+text-decoration: underline;
+}
+
+form{
+    margin-left: 25%;
+    padding: 20px 20px;
+    line-height: 30px;
+    
+}
+form input{
+    padding: 10px 20px;
+    margin-left: 20px;
+}
+form label{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+form .name{
+    width: 20%;
+}
+
+.container2{
+    display: flex;
+    margin-top: 30px;
+}
+.container2 input{
+    width: 25%;
+    padding: 7px;
+}
+.container3{
+    display: flex;
+    margin-top: 30px;
+}
+.container3 input{
+    width: 15%;
+    padding: 7px;
+}
+.container4{
+    display: flex;
+    margin-top: 30px;
+}
+.container4 input{
+    width: 30%;
+    padding: 7px;
+}
+.container5{
+    display: flex;
+    margin-top: 30px;
+    
+}
+.container5 .sub{
+    border-radius:20px;
+    background-color:greenyellow;
+    transition: 0.5s;
+    width: 30%;
+    margin-left: 80px;
+    border: 2px solid;
+}
+.container5 .sub:hover{
+    background-color:black;
+    color: white;
+    transition: 0.5s;
+}
+.container6{
+    display: flex;
+}
+.container6 input{
+    width: 35%;
+    padding: 7px;
+}
+footer{
+    margin: 0px 0px;
+}

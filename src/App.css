@@ -1,0 +1,10 @@
+.popup{
+  border-radius: 100%;
+  width: 100px;
+  position: fixed;
+  bottom: 50px;
+  right: 70px;
+  z-index: 99;
+}
+
+
