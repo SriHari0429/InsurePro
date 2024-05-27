@@ -2,30 +2,30 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
-import Services from '../../Insure_pro/src/components/Services';
-import Home from '../../Insure_pro/src/components/Home';
-import About from '../../Insure_pro/src/components/About';
-import Whyus from '../../Insure_pro/src/components/Whyus';
-import Contact from '../../Insure_pro/src/components/Contact';
-import Navbar from '../../Insure_pro/src/components/Navbar';
-import Health from '../../Insure_pro/src/components/Health';
-import Healthform from '../../Insure_pro/src/components/Healthform'
-import Carform from '../../Insure_pro/src/components/Carform'
-import Homeform from '../../Insure_pro/src/components/Homeform'
-import Travelform from '../../Insure_pro/src/components/Travelform'
-import Lifeform from '../../Insure_pro/src/components/Lifeform'
-import Wholelifeform from '../../Insure_pro/src/components/Wholelifeform'
-import Thankyou from '../../Insure_pro/src/components/Thankyou'
-import Car from '../../Insure_pro/src/components/Car'
-import Travel from '../../Insure_pro/src/components/Travel'
-import Life from '../../Insure_pro/src/components/Life'
-import Homeinsure from '../../Insure_pro/src/components/Homeinsure'
-import Wholelife from '../../Insure_pro/src/components/Wholelife'
-import Chatbot from '../../Insure_pro/src/components/Chatbot';
-import Signup from '../../Insure_pro/src/components/Signup'
-import Login from '../../Insure_pro/src/components/Login'
+import Services from '../../InsurePro/src/components/Services';
+import Home from '../../InsurePro/src/components/Home';
+import About from '../../InsurePro/src/components/About';
+import Whyus from '../../InsurePro/src/components/Whyus';
+import Contact from '../../InsurePro/src/components/Contact';
+import Navbar from '../../InsurePro/src/components/Navbar';
+import Health from '../../InsurePro/src/components/Health';
+import Healthform from '../../InsurePro/src/components/Healthform'
+import Carform from '../../InsurePro/src/components/Carform'
+import Homeform from '../../InsurePro/src/components/Homeform'
+import Travelform from '../../InsurePro/src/components/Travelform'
+import Lifeform from '../../InsurePro/src/components/Lifeform'
+import Wholelifeform from '../../InsurePro/src/components/Wholelifeform'
+import Thankyou from '../../InsurePro/src/components/Thankyou'
+import Car from '../../InsurePro/src/components/Car'
+import Travel from '../../InsurePro/src/components/Travel'
+import Life from '../../InsurePro/src/components/Life'
+import Homeinsure from '../../InsurePro/src/components/Homeinsure'
+import Wholelife from '../../InsurePro/src/components/Wholelife'
+import Chatbot from '../../InsurePro/src/components/Chatbot';
+import Signup from '../../InsurePro/src/components/Signup'
+import Login from '../../InsurePro/src/components/Login'
 
-import chat1 from '../../Insure_pro/src/components/images/bot.gif';
+import chat1 from '../../InsurePro/src/components/images/bot.gif';
 
 import './App.css'
 
